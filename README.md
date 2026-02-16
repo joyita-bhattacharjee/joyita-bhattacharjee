@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joyita Bhattacharjee</h1>
-<h3 align="center">Aspiring Full Stack Developer 🚀</h3>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | MERN Stack | Deep Learning | DSA</h3>
 
 <p align="center">
   <a href="https://callupfrontenf.onrender.com/">
